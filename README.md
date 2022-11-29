@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeraanjum13
 - 👀 I’m interested in Machine Learning in Medical Science and Content (i know, two different worlds)
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently Deep Learning 
 - 📫 HMU on eera_anjum13@gmail.com
 
 <!---
